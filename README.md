@@ -1,2 +1,4 @@
 # projeto-AREE-ebanx
- Projeto para conclusão do curso voltado a dados e inteligência artificial ofertado pelo EBANX. Consiste numa análise da relação entre a renda e a evasão escolar observada entre jovens na faixa dos 15 aos 18 anos, visando o ensino médio. 
+ O projeto, intitulado de "Análise da Relação da Renda com Evasão Escolar" tem como propósito investigar a conexão entre a renda familiar de um estudante na faixa dos 15 aos 18 anos, buscando entender quais possíveis implicações a situação financeira poderia haver na escolaridade dessa faixa etária. Busca-se a avaliação da hipótese positiva sobre a relação, englobando outros aspectos que poderiam estar relacionados à evasão, como a cor/raça, sexo, motivações para evasão, dentre outros. 
+ A base de dados utilizada para a pesquisa é a Pesquisa Nacional por Amostra de Domícilio (PNAD) Contínua, orquestrada e mantida pelo IBGE (Instituto Brasileiro de Geografia e Estatística). 
+ O projeto AREE (sigla para se referir com facilidade ao mencionado) será utilizado para finalização do curso de dados e inteligência artificial ofertado pela EBANX e How, Códigos do Amanhã.
